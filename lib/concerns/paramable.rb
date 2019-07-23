@@ -1,3 +1,3 @@
 module Paramable
-
+  
 end
